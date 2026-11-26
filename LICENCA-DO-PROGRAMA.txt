@@ -1,0 +1,65 @@
+﻿CONTRATO DE LICENÇA DE USO DO PROGRAMA VOIDWINK PARA WINDOWS
+Versão 1.0 — leia com atenção antes de instalar.
+
+1. QUEM SOMOS
+O Voidwink é um projeto independente mantido por Lucas Miguel Oliveira Calixto, pessoa física
+("nós"). Contato: luskinhas.calixto09@gmail.com. Site oficial: https://voidwink.vercel.app
+
+2. O QUE VOCÊ ESTÁ INSTALANDO
+O programa do Voidwink transforma lives (Kick, Twitch, YouTube) e vídeos em cortes
+verticais editados, usando o processador e a placa de vídeo do SEU computador.
+Para usar, é preciso entrar com uma conta do Voidwink (criada no site oficial).
+
+3. LICENÇA
+Você recebe uma licença gratuita, pessoal, não exclusiva e intransferível para instalar
+e usar o programa nos seus computadores, com a sua conta. Toda conta nova pode processar
+3 lives grátis; depois disso, o uso continua com o plano pago divulgado no site
+(nenhuma cobrança acontece sem você contratar o plano de forma clara).
+
+Não é permitido: vender, alugar ou redistribuir o programa do Voidwink como se fosse seu;
+burlar o login ou os limites de uso; remover avisos de licença ou de autoria.
+
+4. TERMOS DE USO E PRIVACIDADE
+O uso do programa e da conta segue os Termos de Uso e a Política de Privacidade:
+  Termos de Uso ............ https://voidwink.vercel.app/termos.html
+  Política de Privacidade .. https://voidwink.vercel.app/privacidade.html
+Resumo: você é o responsável pelos vídeos que corta e publica e deve respeitar as regras
+das plataformas e os direitos dos criadores. Os cortes levam o crédito do canal de origem.
+
+5. SEUS DADOS
+- As lives, os cortes e as transcrições são baixados, processados e guardados no SEU
+  computador, na pasta %LOCALAPPDATA%\Voidwink\dados. Eles não são enviados para nós.
+- O programa usa a internet para: entrar na sua conta e conferir o seu plano (Supabase,
+  servidor em São Paulo) e baixar as lives que você pedir (direto da plataforma da live).
+- O vídeo original de cada live é apagado sozinho depois de 7 dias. Itens na lixeira são
+  apagados de vez depois de 7 dias.
+- Seus dados não são usados para treinar inteligência artificial.
+
+6. COMPONENTES DE TERCEIROS (CÓDIGO ABERTO)
+O instalador inclui programas de código aberto, cada um com a sua própria licença:
+Node.js, FFmpeg (GPL v3), yt-dlp, modelo Whisper/whisper.cpp, Real-ESRGAN e ncnn, entre
+outros. A lista completa, as licenças e os endereços do código-fonte estão no arquivo
+AVISOS-DE-TERCEIROS.txt, instalado junto com o programa, e em
+https://voidwink.vercel.app/licencas.html. Nada neste contrato limita os direitos que
+essas licenças dão a você.
+
+7. AVISO DO WINDOWS
+O programa ainda não possui certificado de assinatura digital. O Windows pode mostrar
+"Editor desconhecido" ao instalar. Baixe o instalador somente pelo site oficial.
+
+8. GARANTIA E RESPONSABILIDADE
+O programa é oferecido como está, em fase de desenvolvimento, e pode ter falhas. Fazemos o
+possível para que funcione bem, mas não garantimos que estará livre de erros ou
+disponível o tempo todo. Isso não exclui os direitos que o Código de Defesa do Consumidor
+garante a você.
+
+9. DESINSTALAR
+Você pode remover o programa quando quiser em Configurações > Aplicativos do Windows.
+A desinstalação pergunta se você também quer apagar a pasta com os seus vídeos e cortes.
+
+10. LEI APLICÁVEL
+Este contrato segue as leis do Brasil. Em caso de conflito, vale o foro do domicílio do
+consumidor.
+
+Ao clicar em "Eu aceito o acordo", você declara que leu e concorda com este contrato, com
+os Termos de Uso e com a Política de Privacidade.

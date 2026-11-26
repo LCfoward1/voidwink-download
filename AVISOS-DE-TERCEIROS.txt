@@ -1,0 +1,55 @@
+﻿AVISOS DE TERCEIROS — VOIDWINK PARA WINDOWS 1.0
+=================================================
+
+O Voidwink usa os programas de código aberto abaixo. Eles NÃO são de autoria do Voidwink e
+continuam sob as suas próprias licenças. O texto completo de cada licença está na pasta
+"licencas", junto com o programa. Nada no contrato de uso do Voidwink limita os direitos
+que essas licenças dão a você.
+
+------------------------------------------------------------------------------------------
+FFmpeg 9.1 (build "full" da gyan.dev) — arquivos bin\ffmpeg.exe e bin\ffprobe.exe
+  Licença: GNU General Public License versão 3 (GPL v3)  -> licencas\FFmpeg-LICENSE-GPLv3.txt
+  Detalhes do build e bibliotecas incluídas              -> licencas\FFmpeg-BUILD-README.txt
+  Código-fonte do FFmpeg desta versão: https://github.com/FFmpeg/FFmpeg/commit/74e4393595
+  Builds e informações das bibliotecas: https://www.gyan.dev/ffmpeg/builds/
+  O FFmpeg é usado como programa separado (chamado pelo Voidwink) e não foi modificado.
+  OFERTA DE CÓDIGO-FONTE: além dos endereços acima, por pelo menos 3 anos enviamos uma
+  cópia do código-fonte correspondente a quem pedir pelo contato luskinhas.calixto09@gmail.com,
+  sem custo além do envio.
+
+------------------------------------------------------------------------------------------
+Node.js 26.13.1 — pasta node\
+  Licença: MIT (e licenças dos componentes incluídos)    -> licencas\Node.js-LICENSE.txt
+  Site e código-fonte: https://nodejs.org  /  https://github.com/nodejs/node
+
+------------------------------------------------------------------------------------------
+yt-dlp 2026.11.23 — arquivo bin\yt-dlp.exe
+  Licença: Unlicense (domínio público)                    -> licencas\yt-dlp-LICENSE.txt
+  Componentes incluídos no executável                     -> licencas\yt-dlp-THIRD_PARTY_LICENSES.txt
+  Código-fonte: https://github.com/yt-dlp/yt-dlp
+
+------------------------------------------------------------------------------------------
+Modelo de transcrição Whisper "small" (formato ggml) — arquivo modelos\ggml-small.bin
+  Modelo Whisper, OpenAI — Licença MIT                    -> licencas\OpenAI-Whisper-LICENSE.txt
+  whisper.cpp / ggml — Licença MIT                        -> licencas\whisper.cpp-LICENSE.txt
+  Origem do arquivo: https://huggingface.co/ggerganov/whisper.cpp
+
+------------------------------------------------------------------------------------------
+Real-ESRGAN (ncnn Vulkan) e modelo realesrgan-x4plus — pasta bin\realesrgan\
+  Real-ESRGAN-ncnn-vulkan — Licença MIT                   -> licencas\Real-ESRGAN-ncnn-vulkan-LICENSE.txt
+  Real-ESRGAN (modelo) — Licença BSD de 3 cláusulas       -> licencas\Real-ESRGAN-LICENSE.txt
+  ncnn (Tencent) — Licença BSD de 3 cláusulas             -> licencas\ncnn-LICENSE.txt
+  Código-fonte: https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan
+  vcomp140.dll — Microsoft Visual C++ Runtime (OpenMP), arquivo redistribuível
+  conforme os termos de licença do Microsoft Visual C++ Redistributable.
+
+------------------------------------------------------------------------------------------
+Bibliotecas do site e do programa
+  supabase-js — Licença MIT                               -> licencas\supabase-js-LICENSE.txt
+  Fonte Geist (Vercel) — SIL Open Font License 1.1        -> licencas\Geist-LICENSE-OFL.txt
+  @anthropic-ai/sdk e demais pacotes em app\node_modules — licenças MIT/Apache,
+  cada uma no arquivo LICENSE da própria pasta do pacote.
+
+------------------------------------------------------------------------------------------
+Marcas: Kick, Twitch, YouTube, TikTok, Instagram, Windows e NVIDIA são marcas dos seus
+donos. O Voidwink não tem vínculo com essas empresas.
