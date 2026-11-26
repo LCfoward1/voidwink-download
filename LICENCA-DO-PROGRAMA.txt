@@ -3,7 +3,7 @@ Versão 1.0 — leia com atenção antes de instalar.
 
 1. QUEM SOMOS
 O Voidwink é um projeto independente mantido por Lucas Miguel Oliveira Calixto, pessoa física
-("nós"). Contato: luskinhas.calixto09@gmail.com. Site oficial: https://voidwink.vercel.app
+("nós"). Contato: voidwinksupport@gmail.com. Site oficial: https://voidwink.vercel.app
 
 2. O QUE VOCÊ ESTÁ INSTALANDO
 O programa do Voidwink transforma lives (Kick, Twitch, YouTube) e vídeos em cortes

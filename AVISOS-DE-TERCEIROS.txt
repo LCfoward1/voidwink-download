@@ -14,7 +14,7 @@ FFmpeg 9.1 (build "full" da gyan.dev) — arquivos bin\ffmpeg.exe e bin\ffprobe.
   Builds e informações das bibliotecas: https://www.gyan.dev/ffmpeg/builds/
   O FFmpeg é usado como programa separado (chamado pelo Voidwink) e não foi modificado.
   OFERTA DE CÓDIGO-FONTE: além dos endereços acima, por pelo menos 3 anos enviamos uma
-  cópia do código-fonte correspondente a quem pedir pelo contato luskinhas.calixto09@gmail.com,
+  cópia do código-fonte correspondente a quem pedir pelo contato voidwinksupport@gmail.com,
   sem custo além do envio.
 
 ------------------------------------------------------------------------------------------

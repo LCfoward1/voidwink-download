@@ -44,4 +44,4 @@ O resultado deve ser igual ao SHA-256 publicado na página da versão.
 - O instalador inclui programas de código aberto (FFmpeg — GPL v3, Node.js, yt-dlp, Whisper, Real-ESRGAN), cada um sob a sua própria licença. Os textos completos e os endereços do código-fonte vão junto com o programa (`AVISOS-DE-TERCEIROS.txt` e pasta `licencas`).
 - Kick, Twitch, YouTube, TikTok, Instagram, Windows e NVIDIA são marcas dos seus donos. O Voidwink não tem vínculo com essas empresas.
 
-© 2026 Voidwink · Projeto independente mantido por Lucas Miguel Oliveira Calixto · Contato: luskinhas.calixto09@gmail.com
+© 2026 Voidwink · Projeto independente mantido por Lucas Miguel Oliveira Calixto · Contato: voidwinksupport@gmail.com
