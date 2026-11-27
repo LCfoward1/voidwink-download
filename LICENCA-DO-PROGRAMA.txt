@@ -30,7 +30,11 @@ das plataformas e os direitos dos criadores. Os cortes levam o crédito do canal
 - As lives, os cortes e as transcrições são baixados, processados e guardados no SEU
   computador, na pasta %LOCALAPPDATA%\Voidwink\dados. Eles não são enviados para nós.
 - O programa usa a internet para: entrar na sua conta e conferir o seu plano (Supabase,
-  servidor em São Paulo) e baixar as lives que você pedir (direto da plataforma da live).
+  servidor em São Paulo), baixar as lives que você pedir (direto da plataforma da live) e
+  ver no GitHub se saiu uma versão nova do programa.
+- Atualizações: quando sai uma versão nova, o programa avisa e só instala se você clicar em
+  "Atualizar agora". Antes de instalar, ele confere o código de verificação (SHA-256)
+  publicado junto com a versão. Seus cortes e configurações são mantidos.
 - O vídeo original de cada live é apagado sozinho depois de 7 dias. Itens na lixeira são
   apagados de vez depois de 7 dias.
 - Seus dados não são usados para treinar inteligência artificial.
